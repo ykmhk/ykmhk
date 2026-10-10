@@ -13,10 +13,10 @@ computer science major university student
 
 I like building cool things, exploring visual aesthetics, and turning random ideas into projects.
 
-* ✳ interested in frontend development, UI/UX, and creative web experiences
-* 🎨 drawing
-* 📷 amateur photography
-* 💻 creative coding
+* interested in frontend development, UI/UX, and creative web experiences
+🎨 drawing
+📷 amateur photography
+💻 creative coding
 
 <div align="center">
 ---
