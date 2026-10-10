@@ -1,6 +1,6 @@
 <div align="center">
 
-# hi, i'm Yufan ☁️
+# hi, i'm Yufan 
 
 *computer science student*
 
@@ -28,6 +28,6 @@ currently listening to ♫
 
 <div align="center">
 
-<sub>thanks for stopping by & have a nice day </sub>
+<sub>thanks for stopping by & have a nice day☁️ </sub>
 
 </div>
