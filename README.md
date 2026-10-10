@@ -6,7 +6,7 @@ computer science major university student
 
 <img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=15&duration=3000&pause=1000&color=888888&center=true&vCenter=true&width=420&lines=building+cool+things;exploring+visual+aesthetics;turning+ideas+into+projects" alt="Typing animation" />
 
-[bit more about me <-](https://ykmhk.github.io/portfolio-page/)
+[bit more about me <-](https://ykmhk.github.io/portfolio-page/) (still building on it)
 
 <br>
 
