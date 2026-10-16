@@ -8,24 +8,7 @@ computer science major university student
 
 [bit more about me <-](https://ykmhk.github.io/portfolio-page/) (still building on it)
 
-<br>
 
-I like building cool things, exploring visual aesthetics,<br>
-and turning random ideas into projects.
-
-<br>
-
-frontend development · UI/UX
-
-creative web experiences
-
-🎨   drawing
-
-📷   amateur photography
-
-💻   creative coding
-
-<br>
 
 ---
 
@@ -36,6 +19,6 @@ currently listening to ♫
 ---
 
 
-thanks for stopping by & have a nice day☁️
+thanks for stopping by & have a nice day
 
 </div>
